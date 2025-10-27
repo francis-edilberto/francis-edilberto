@@ -2,7 +2,7 @@
 <div align="left">
   
  Aluno nos **cursos**: <br/>
-👨🏻‍💻 **Sistemas de Informação**<br/>
+👨🏻‍💻 **Ciência da Computação**<br/>
 💻 **Tecnologia em Sistemas para Internet**<br/>
 <img align="center" alt="main_img" src="https://user-gen-media-assets.s3.amazonaws.com/gpt4o_images/23a715b5-b043-4d50-bd15-4e9984e173a6.png" width="10%">
 </div>
@@ -26,7 +26,6 @@
 
 </div><br/>
 <div align="center">
-Apaixonado por tudo que se relaciona com tecnologia desde sempre.<br/>
   
 *"Se vi mais longe foi por estar sobre ombros de gigantes" - Isaac Newton*
 </div>
